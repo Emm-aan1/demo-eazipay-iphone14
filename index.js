@@ -1,2 +1,2 @@
-print('Hello World')
-print('Welcome to SSH cloning')
+console.log('Hello World')
+console.log('Welcome to SSH cloning')
